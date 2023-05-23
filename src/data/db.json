@@ -1,0 +1,35 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Finish coding challenge",
+      "category": "Work",
+      "text": "Complete the coding challenge before the deadline"
+    },
+    {
+      "id": 2,
+      "name": "Buy groceries",
+      "category": "Personal",
+      "text": "Get milk, bread, and eggs from the supermarket"
+    },
+    {
+      "name": "Slider React",
+      "category": "job",
+      "id": 3
+    },
+    {
+      "name": "games",
+      "category": "personal",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "category": "b",
+      "id": 5
+    },
+    {
+      "name": "d",
+      "id": 6
+    }
+  ]
+}
