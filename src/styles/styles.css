@@ -1,0 +1,17 @@
+/* GLOBAL */
+
+/* .container-layout {
+    
+} */
+
+
+/* LAYOUT */
+
+.row-main {
+    display: flex;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
